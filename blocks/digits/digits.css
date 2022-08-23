@@ -3,6 +3,5 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 100px auto;
-    width: 80%;
+    margin-bottom: 100px;
   }

@@ -5,7 +5,3 @@
     align-items: flex-start;
     flex-wrap: wrap;
 }
-
-.cards:nth-child(3){
-    margin-right: 0px;
-}
